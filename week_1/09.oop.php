@@ -52,3 +52,6 @@ class CNG extends Vehicle
 $car = new Car();
 $total = $car->getTotal(10);
 echo "Total fare for car: $total \n";
+
+
+//interface
